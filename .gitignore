@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Buildozer
+/bin/
+build/
+*.apk
+*.kivy
+*.pyo
+*.pyd
